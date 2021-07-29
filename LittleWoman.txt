@@ -200,3 +200,6 @@ But if such complacency cannot be countenanced, that returns us to our original 
 
 chits=
 ------
+--  note that shows how much money you owe or have paid for something, or that allows you to do something--
+Before they can hail a cab or order a bike, staff now need a chit signed by a senior staff member. 
+Each passenger received a chit for $250 in onboard spending.
